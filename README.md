@@ -1,6 +1,6 @@
-# Scraper Projects
+# Webscrap Compilation
 
-List of mini **web scraping** projects in Python:
+List of my mini **web scraping** projects in Python:
 
 1. Your Story News Scraper
 2. Indian Blogs Link Extraction 
